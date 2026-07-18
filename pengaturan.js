@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "temaniku",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyCMhQHE6scBOAx3_rre0fq7pzf_qgV4EA8",
     whatsappAdmin: "62821000000000" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
